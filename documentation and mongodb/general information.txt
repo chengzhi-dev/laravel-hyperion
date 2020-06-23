@@ -1,0 +1,10 @@
+url of api documentation : http://18.206.38.220/api_doc or http://locahost/api_doc
+
+This is a backend mission to create API using Laravel, 
+When you test with PostMan and all work fine, you can push the code on "developers" branch
+if you do this please free contact me for merge on "master" branch
+
+
+**** Most important to work on "developers" branch and please take pull before creating or update something.
+
+Thank you

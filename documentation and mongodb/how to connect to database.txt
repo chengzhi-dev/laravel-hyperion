@@ -1,0 +1,9 @@
+how to connect to mongodb database :
+- use ssh address : 18.206.38.220
+- ssh username : ubuntu
+- method private key and use this file : cica-re.pem
+
+The name of database : hyperioncore
+
+You can do you own copy of database for your localhost, use Studio3T or other tools.
+

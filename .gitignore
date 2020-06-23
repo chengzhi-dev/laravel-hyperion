@@ -1,0 +1,24 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Backend ignore files
+/backend/node_modules
+/backend/public/hot
+/backend/public/storage
+/backend/public/documents/*
+/backend/public/images/*
+/backend/storage/*.key
+/backend/storage
+/backend/vendor
+/backend/bootstrap/*
+/backend/.idea
+/backend/.vscode
+/backend/.vagrant
+/backend/Homestead.json
+/backend/Homestead.yaml
+/backend/npm-debug.log
+/backend/yarn-error.log
+/backend/.phpunit.result.cache
+.idea
+
+!/.idea/workspace.xml
+!/.idea/workspace.xml
